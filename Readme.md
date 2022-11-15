@@ -1,1 +1,1 @@
-Built Boredbot-A website that will
+Built Boredbot-A website that will generate random images of animals and genrate random things you can do if you are bored
